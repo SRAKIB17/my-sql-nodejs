@@ -1,0 +1,3 @@
+2a. SELECT * FROM movies ORDER BY runtimeMinutes DESC LIMIT 10
+
+2b. SELECT * FROM ratings WHERE averageRating > 6.0 ORDER BY averageRating
